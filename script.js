@@ -75,9 +75,9 @@ document.addEventListener("DOMContentLoaded", () => {
             const index = parseInt(heart.dataset.index);
             const book = books[index];
 
-            toggleLike(book)
+            toggleLike(book);
 
-            saveToLocalStorage()
+            saveToLocalStorage();
             renderBooks(books);
         }
     });
