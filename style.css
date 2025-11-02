@@ -2,10 +2,10 @@
 :root {
   /* Colors */
   --White: #ffffff;
-  --Slate-200: #f5f5f5;
+  --Slate-100: #fafafa;
+  --Slate-200: #e7e7e7;
   --Slate-500: #1c232b;
   --Purple: #b555e2;
-  --Cream-200: #d0c8bf;
 
   /*Typography */
   --font-body: "Montserrat", sans-serif;
@@ -26,7 +26,7 @@ html {
 body {
   font-size: 1.4rem;
   line-height: 1.4;
-  background-color: var(--Cream-200);
+  background-color: var(--Slate-100);
   color: var(--Slate-500);
 }
 
