@@ -69,3 +69,4 @@ The Book Store is a modern, interactive online bookstore built with HTML, CSS, a
 ## Author
 
 - GitHub: [@stefanstraeter](https://github.com/stefanstraeter)
+# the-book-store
