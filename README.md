@@ -19,7 +19,7 @@ The Book Store is a modern, interactive online bookstore built with HTML, CSS, a
 
 ### Screenshot
 
-![Book Store Screenshot](assets/images/Screenshot.png)
+![Book Store Screenshot]
 
 ---
 
