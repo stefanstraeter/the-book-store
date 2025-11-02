@@ -1,4 +1,6 @@
 
+
+
 function renderBooks(books) {
     let contentRef = document.getElementById('book-container');
     contentRef.innerHTML = "";
