@@ -294,6 +294,20 @@ footer {
   scrollbar-color: var(--Purple) var(--Slate-200);
 }
 
+.book-card__comments-list::-webkit-scrollbar {
+  width: 8px;
+}
+
+.book-card__comments-list::-webkit-scrollbar-track {
+  background: var(--Slate-200);
+  border-radius: 0.8rem;
+}
+
+.book-card__comments-list::-webkit-scrollbar-thumb {
+  background-color: var(--Purple);
+  border-radius: 0.8rem;
+}
+
 .book-card__comments-name {
   font-weight: var(--weight-500);
 }
